@@ -1,0 +1,2 @@
+#!/bin/bash
+wipefs --all /dev/sdb
